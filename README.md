@@ -7,5 +7,4 @@
 
 
 **Language used**
->c++
->QT framework
+>c++ and QT framework
